@@ -68,7 +68,7 @@
 
 ## References
 
-1. 鄭念媛. 不同料源製成之市售堆肥其抗生素抗性基因含量調查. mastersthesis, 國立中央大學, 桃園縣, 2022, Vol. 碩士. https://hdl.handle.net/11296/bncg6u.
-2. 林子晞. 沼液沼渣的施用促成農地土壤抗生素抗性基因增殖的可能性探討. mastersthesis, 國立中央大學, 桃園縣, 2023, Vol. 碩士. https://hdl.handle.net/11296/35jd58.
-3. 李杰穎. 季節效應對沼液沼渣中抗生素抗性基因豐度之影響, 國立中央大學, 桃園縣, 2023, Vol. 碩士. https://hdl.handle.net/11296/uu5hu5.
-4. 陳宥丞. 不同肥料引入的抗生素抗性基因 在實際農業土壤中的宿命, 國立中央大學, 桃園縣, 2023, Vol. 碩士. https://hdl.handle.net/11296/ce3b83.
+1. 鄭念媛. 不同料源製成之市售堆肥其抗生素抗性基因含量調查. mastersthesis, 國立中央大學, 桃園縣, 2022. https://hdl.handle.net/11296/bncg6u.
+2. 林子晞. 沼液沼渣的施用促成農地土壤抗生素抗性基因增殖的可能性探討. mastersthesis, 國立中央大學, 桃園縣, 2023. https://hdl.handle.net/11296/35jd58.
+3. 李杰穎. 季節效應對沼液沼渣中抗生素抗性基因豐度之影響, 國立中央大學, 桃園縣, 2023. https://hdl.handle.net/11296/uu5hu5.
+4. 陳宥丞. 不同肥料引入的抗生素抗性基因在實際農業土壤中的宿命, 國立中央大學, 桃園縣, 2023. https://hdl.handle.net/11296/ce3b83.
